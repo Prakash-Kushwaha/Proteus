@@ -7,7 +7,7 @@ Welcome to my GitHub repository, where I've stored all my Proteus schematic file
 1. Clone the Repository:
 
 ```sh
-git clone https://github.com/yourusername/Proteus_Schematics.git
+git clone https://github.com/Prakash-Kushwaha/Proteus.git
 ```
 2. Open Proteus:
 - Open Proteus and navigate to the cloned repository.
